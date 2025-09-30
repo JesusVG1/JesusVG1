@@ -89,7 +89,32 @@ El proyecto fortaleció mis habilidades de organización, comunicación y resolu
 🔗 [Repositorio](https://github.com/studioconnect2025/studioconnect_back)
 
 ---
+### StudioConnect *(Proyecto individual M4 – Henry, 2025)*
+Un ecommerce pra la implementacion de NestJS
+- Rol: **Backend Developer**
+- 
+Durante el Módulo 4 de Henry, elegí especializarme en Backend Development, lo que me llevó a desarrollar un pequeño E-commerce para la implementación práctica de la nueva tecnología que nos fue introducida: NestJS. Este proyecto marcó mi inmersión inicial y completa en este framework.
+La experiencia fue fundamental para comprender la arquitectura, la modularización y la organización de servicios que promueve NestJS, y me permitió aplicar conceptos esenciales de desarrollo backend.
 
+Puntos Clave del Desarrollo e Implementaciones Técnicas:
+
+Autenticación y Seguridad: Implementé la autenticación basada en JWT (JSON Web Tokens) desde cero. Esto incluyó la lógica completa para la generación del token al crear un usuario e iniciar sesión, siendo mi primera implementación directa de este estándar de seguridad en un proyecto real.
+Gestión de Entidades (CRUD): Desarrollé flujos completos para la gestión de entidades clave como Usuarios y Productos. Esto implicó la creación de servicios y controladores con endpoints para las operaciones CRUD (Create, Read, Update, Delete) utilizando peticiones POST, GET, PUT y DELETE, lo cual consolidó mi entendimiento de la interacción directa entre la lógica de negocio y la API.
+
+Diseño de la Lógica de Negocio: Se implementaron flujos de Productos, Categorías y Órdenes de Compra, que demostraron mi capacidad para manejar:
+
+Modularización efectiva del código.
+Relaciones complejas entre entidades (uno a muchos, muchos a muchos).
+Persistencia de datos en PostgreSQL, incluyendo la creación y manipulación de tablas, columnas y filas.
+
+Integraciones Adicionales:
+
+Se integró un servicio de subida de archivos utilizando Cloudinary para la gestión de imágenes de productos.
+Se implementó Swagger para documentar y visualizar la API, facilitando su entendimiento y prueba.
+Este proyecto, aunque de escala inicial, fue crucial para afianzar mis conocimientos en NestJS, la lógica de negocio y la arquitectura backend, definiendo mi camino profesional y mi interés por el desarrollo del lado del servidor.
+
+🔗 [Repositorio](https://github.com/JesusVG1/M4-project-Henry)
+---
 ## Contacto
 
 - 📧 Email: **jesusvaladezguzman04@gmail.com**  
